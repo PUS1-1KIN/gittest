@@ -5,3 +5,8 @@ html{
 p{
     font-size: 2rem;
 }
+
+h1{
+    font-weight: bold;
+    font-size: 4rem;
+}
